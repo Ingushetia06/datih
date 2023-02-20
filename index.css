@@ -1,8 +1,10 @@
 #qwe{
-     color: white;
-     background-color: grey;
+     color: wheat;
      font-size: 20px;
 }
 body{
-     background-color: grey;
+     background:green;
+}
+#ser body{
+     size: 20px;
 }
